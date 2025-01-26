@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="example7" />
         <module name="First_Project" />
         <module name="example5 (2) (org.dua)" />
         <module name="example2" />
