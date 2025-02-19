@@ -23,7 +23,7 @@ public class Person {
     private Vehicle vehicle;
 
     public String getName() {
-        return name ;
+        return name;
     }
 
     public void setName(String name) {
