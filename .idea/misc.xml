@@ -15,7 +15,13 @@
         <option value="$PROJECT_DIR$/example12/pom.xml" />
         <option value="$PROJECT_DIR$/exampleAssign/pom.xml" />
         <option value="$PROJECT_DIR$/example15/pom.xml" />
+        <option value="$PROJECT_DIR$/example17/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../spring/example5/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="22" project-jdk-type="JavaSDK">

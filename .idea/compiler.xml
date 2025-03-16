@@ -10,7 +10,7 @@
         <module name="example9" />
         <module name="example5 (2) (org.dua)" />
         <module name="example2" />
-        <module name="example5 (1) (com.eazybytes)" />
+        <module name="example17" />
         <module name="exampleAssign" />
         <module name="example15" />
         <module name="First_Project" />
@@ -21,6 +21,7 @@
     <bytecodeTargetLevel>
       <module name="example10" target="22" />
       <module name="example5" target="22" />
+      <module name="example5 (1) (com.eazybytes)" target="22" />
     </bytecodeTargetLevel>
   </component>
 </project>
